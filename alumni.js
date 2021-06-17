@@ -1,9 +1,9 @@
 alumni_list = [
   {
     "Timestamp": "7/4/2020 19:24:52",
-    "Year": "-2019",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
     "github": "",
-    "branch": " Lumenci",
     "image-link": "./img/members/A Sai Ruthvik.jpg",
     "linkedin": "https://www.linkedin.com/in/sairuthvik",
     "mail": "ruthvik2548@gmail.com",
@@ -11,8 +11,8 @@ alumni_list = [
   },
   {
     "Timestamp": "7/5/2020 8:31:57",
-    "Year": "-2020",
-    "branch": "Atria Convergence Technologies",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
     "github": "https://github.com/Mittaladitech",
     "image-link": "./img/members/Aditya Mittal.jpg",
     "linkedin": "https://www.linkedin.com/in/adityamittal12/",
@@ -21,9 +21,9 @@ alumni_list = [
   },
   {
     "Timestamp": "7/4/2020 21:29:11",
-    "Year": "-2020",
+    "Year": "Alumini",
     "github": "",
-    "branch": "Samsung Research Institute",
+    "branch": "Electronics & Communication Engg",
     "image-link": "./img/members/Deepak Agrawal.jpg",
     "linkedin": "https://www.linkedin.com/in/deepak-agrawal-810853177",
     "mail": "deepak1140488@gmail.com",
@@ -31,8 +31,8 @@ alumni_list = [
   },
   {
     "Timestamp": "7/4/2020 20:39:32",
-    "Year": "-2020",
-    "branch": "CGI India",
+    "Year": "Alumini",
+    "branch": "Electronics & Instrumentation Engg",
     "github": "https://github.com/deepak4669",
     "image-link": "./img/members/Deepak Goyal.jpg",
     "linkedin": "https://www.linkedin.com/in/deepak4669/",
@@ -41,8 +41,8 @@ alumni_list = [
   },
   {
     "Timestamp": "7/4/2020 19:56:19",
-    "Year": "-2020",
-    "branch": "Paytm",
+    "Year": "Alumini",
+    "branch": "Electrical Engg",
     "github": "",
     "image-link": "./img/members/Deepak Jain.jpg",
     "linkedin": "https://www.linkedin.com/in/deepak-jain-1a6853177",
@@ -50,19 +50,9 @@ alumni_list = [
     "name": "Deepak Jain"
   },
   {
-    "Timestamp": "7/5/2020 0:15:31",
-    "Year": "-2019",
-    "branch": "Mechanical Engineer 1",
-    "github": "",
-    "image-link": "./img/members/Gourav.jpg",
-    "linkedin": "https://www.linkedin.com/in/gourav-mishra-a19841106/",
-    "mail": "g.iit.ism@gmail.com",
-    "name": "Gourav"
-  },
-  {
     "Timestamp": "7/5/2020 13:21:05",
-    "Year": "-2020",
-    "branch": "Microsoft",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
     "github": "",
     "image-link": "./img/members/Hitesh Kumar.jpg",
     "linkedin": "",
@@ -71,8 +61,8 @@ alumni_list = [
   },
   {
     "Timestamp": "7/4/2020 19:45:19",
-    "Year": "-2020",
-    "branch": "Reliance Jio",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
     "github": "https://github.com/gupta-mayank417",
     "image-link": "./img/members/Mayank Gupta.jpg",
     "linkedin": "https://www.linkedin.com/in/mayank-gupta-bb4699145",
@@ -81,8 +71,8 @@ alumni_list = [
   },
   {
     "Timestamp": "7/5/2020 12:15:48",
-    "Year": "-2020",
-    "branch": "TechnipFMC",
+    "Year": "Alumini",
+    "branch": "Mechanical Engg",
     "github": "",
     "image-link": "./img/members/Mayank Mathur.jpg",
     "linkedin": "https://www.linkedin.com/in/mayank-mathur-679621148",
@@ -91,18 +81,8 @@ alumni_list = [
   },
   {
     "Timestamp": "7/5/2020 12:20:52",
-    "Year": "-2017",
-    "branch": "Machine Learning Engineer, Niveshi",
-    "github": "https://github.com/markroxor",
-    "image-link": "./img/members/Mohit Rathore.jpg",
-    "linkedin": "https://linkedin.com/in/markroxor/",
-    "mail": "mrmohitrathoremr@gmail.com",
-    "name": "Mohit Rathore"
-  },
-  {
-    "Timestamp": "7/5/2020 12:20:52",
-    "Year": "-2020",
-    "branch": "Sling Media",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
     "github": "",
     "image-link": "./img/members/Mudassar Raza.jpg",
     "linkedin": "",
@@ -111,83 +91,144 @@ alumni_list = [
   },
   {
     "Timestamp": "7/5/2020 0:15:31",
-    "Year": "-2019",
-    "branch": "MSc in Embedded System, Univ : TU Delft,Netherlands",
+    "Year": "Alumini",
+    "branch": "Electronics & Instrumentation Engg",
     "github": "https://github.com/matiyau",
-    "image-link": "galleryimg/nishadsir2.png",
+    "github": "",
+    "image-link": "./img/members/Nishad Mandlik.jpg",
     "linkedin": "https://www.linkedin.com/in/matiyau/",
     "mail": "mandliksg@gmail.com",
     "name": "Nishad Mandlik"
   },
   {
-    "Timestamp": "7/5/2020 0:15:31",
-    "Year": "-2018",
-    "branch": "TechMonks Engin- eering Solutions LLP CO-FOUNDER",
-    "github": "",
-    "image-link": "./img/members/Nitya Nand.jpg",
-    "linkedin": "",
-    "mail": "lightningvns@gmail.com",
-    "name": "Nitya Nand"
-  },
-  {
-    "Timestamp": "7/5/2020 0:15:31",
-    "Year": "-2019",
-    "branch": " Quantiphi",
-    "github": "https://github.com/Neelesh1121",
-    "image-link": "./img/members/Neelesh Yadav.jpg",
-    "linkedin": "https://www.linkedin.com/in/neelesh932/",
-    "mail": "neelesh932@gmail.com",
-    "name": "Neelesh Yadav"
-  },
-  {
-    "Timestamp": "7/5/2020 0:15:31",
-    "Year": "-2020",
-    "branch": "MS in CSE at NYU Tandon University",
-    "github": "",
-    "image-link": "./img/members/Pragdheesh Rs.jpg",
-    "linkedin": "https://www.linkedin.com/in/pragdheesh-r-s",
-    "mail": "",
-    "name": "Pragdheesh Rs"
-  },
-  {
-    "Timestamp": "7/5/2020 0:15:31",
-    "Year": "-2020",
-    "branch": "Cadence Design Systems",
-    "github": "",
-    "image-link": "./img/members/Sarthak Panda.jpg",
-    "linkedin": "https://www.linkedin.com/in/sarthak-panda560/",
-    "mail": "sarthakjine67@gmail.com",
-    "name": "Sarthak Panda"
-  },
-  {
-    "Timestamp": "7/5/2020 0:15:31",
-    "Year": "-2019",
-    "branch": "R&D FPGA Design Engineer at Tejas Networks",
-    "github": "https://github.com/sumanth-kalluri",
-    "image-link": "./img/members/Sumanth.jpg",
-    "linkedin": "https://www.linkedin.com/in/sai-sumanth-kalluri-7b9015136",
-    "mail": "saisumanthkalluri@gmail.com",
-    "name": "Sumanth"
-  },
-  {
     "Timestamp": "7/5/2020 13:53:39",
-    "Year": "-2018",
-    "branch": "JRF @ DRDO",
-    "github": "",
-    "image-link": "./img/members/Suyash Shandilya.jpg",
-    "linkedin": "https://www.linkedin.com/in/suyash23/",
-    "mail": "su.sh2396@gmail.com",
-    "name": "Suyash Shandilya"
-  },
-  {
-    "Timestamp": "7/5/2020 13:53:39",
-    "Year": "-2020",
-    "branch": "OYO",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
     "github": "https://github.com/UmangLilha/",
     "image-link": "./img/members/umang lilha.jpg",
     "linkedin": "https://www.linkedin.com/in/umang-lilha-981521151",
     "mail": "umanglilha@gmail.com",
     "name": "umang lilha"
+  },
+  {
+    "Timestamp": "7/4/2020 20:15:01",
+    "Year": "Alumini",
+    "branch": "Computer Science & Engg",
+    "github": "https://github.com/mishraaayushman3?tab=repositories",
+    "image-link": "./img/members/Aayushman Mishra.jpg",
+    "linkedin": "https://www.linkedin.com/in/aayushman-mishra-769903176/",
+    "mail": "aayushmanmishra3@gmail.com",
+    "name": "Aayushman Mishra"
+  },
+  {
+    "Timestamp": "7/5/2020 0:03:00",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
+    "github": "https://github.com/apdgreat",
+    "image-link": "./img/members/Ayan Prakash.jpg",
+    "linkedin": "https://www.linkedin.com/in/ionprakash1999/",
+    "mail": "ayanhere123@gmail.com",
+    "name": "Ayan Prakash"
+  },
+  {
+    "Timestamp": "7/5/2020 0:14:31",
+    "Year": "Alumini",
+    "branch": "Mechanical Engg",
+    "github": "",
+    "image-link": "./img/members/Eric John Dungdung.jpg",
+    "linkedin": "https://in.linkedin.com/in/eric-john-dungdung-452b27158",
+    "mail": "eric.17je002743@mech.iitism.ac.in",
+    "name": "Eric John Dungdung"
+  },
+  {
+    "Timestamp": "7/5/2020 0:09:18",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
+    "github": "https://github.com/harshv47",
+    "image-link": "./img/members/Harsh Vardhan.jpg",
+    "linkedin": "https://www.linkedin.com/in/harsh-vardhan-514a9716a/",
+    "mail": "harshv47@gmail.com",
+    "name": "Harsh Vardhan"
+  },
+  {
+    "Timestamp": "7/5/2020 0:51:21",
+    "Year": "Alumini",
+    "branch": "Electronics & Instrumentation Engg",
+    "github": "https://www.github.com/kapilv19",
+    "image-link": "./img/members/Kapil Verma.jpg",
+    "linkedin": "https://www.linkedIn.com/in/kapilv19",
+    "mail": "kapilv1999@gmail.com",
+    "name": "Kapil Verma"
+  },
+  {
+    "Timestamp": "7/4/2020 23:50:18",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
+    "github": "https://github.com/PradyumnaGupta",
+    "image-link": "./img/members/Pradyumna Gupta.jpg",
+    "linkedin": "https://www.linkedin.com/in/pradyumna-gupta-1a900317b/",
+    "mail": "pradyumna.gupta22@gmail.com",
+    "name": "Pradyumna Gupta"
+  },
+  {
+    "Timestamp": "7/5/2020 0:09:59",
+    "Year": "Alumini",
+    "branch": "Electronics & Instrumentation Engg",
+    "github": "https://github.com/meet404coder",
+    "image-link": "./img/members/Prakhar Kumar.jpg",
+    "linkedin": "https://www.linkedin.com/in/prakhar-kumar-iitism",
+    "mail": "pka.alld.97@gmail.com",
+    "name": "Prakhar Kumar"
+  },
+  {
+    "Timestamp": "7/4/2020 22:14:30",
+    "Year": "Alumini",
+    "branch": "Mining Machinery",
+    "github": "",
+    "image-link": "./img/members/Prince Kunal.jpg",
+    "linkedin": "https://www.linkedin.com/in/prince-kunal-a7ab3a165/",
+    "mail": "princekunal1999@gmail.com",
+    "name": "Prince Kunal"
+  },
+  {
+    "Timestamp": "7/4/2020 22:32:01",
+    "Year": "Alumini",
+    "branch": "Computer Science & Engg",
+    "github": "https://github.com/Sanchay-Goel/",
+    "image-link": "./img/members/Sanchay Goel.jpg",
+    "linkedin": "https://www.linkedin.com/in/sanchay-goel/",
+    "mail": "sanchaygoel1999@gmail.com",
+    "name": "Sanchay Goel"
+  },
+  {
+    "Timestamp": "7/5/2020 1:15:11",
+    "Year": "Alumini",
+    "branch": "Electronics & Instrumentation Engg",
+    "github": "https://github.com/shantanur8",
+    "image-link": "./img/members/Shantanu Rawat.jpg",
+    "linkedin": "https://www.linkedin.com/in/shantanu-rawat-879a84163",
+    "mail": "shantanur8@gmail.com",
+    "name": "Shantanu Rawat"
+  },
+  {
+    "Timestamp": "7/5/2020 6:00:28",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
+    "github": "",
+    "image-link": "./img/members/Sourav Kumar Sahu.jpg",
+    "linkedin": "",
+    "mail": "souravhzb@gmail.com",
+    "name": "Sourav Kumar Sahu"
+  },
+  {
+    "Timestamp": "7/4/2020 19:49:26",
+    "Year": "Alumini",
+    "branch": "Electronics & Communication Engg",
+    "github": "https://github.com/devrra",
+    "image-link": "./img/members/Yash Raj.jpg",
+    "linkedin": "https://www.linkedin.com/in/yash-raj-579b96156",
+    "mail": "yashr2192@gmail.com",
+    "name": "Yash Raj"
   }
 ];
 
